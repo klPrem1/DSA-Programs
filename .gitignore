@@ -1,0 +1,7 @@
+# Ignore all exe files forever
+*.exe
+
+# (Optional but smart) ignore build outputs
+/build/
+/out/
+/dist/
